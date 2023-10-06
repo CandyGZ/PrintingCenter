@@ -32,6 +32,7 @@ The printing control system is a tool designed to manage printing jobs in a prin
 - If the system does not find any files in the folder, it will display a message that the folder is empty.
 - It is important to correctly enter the name of the last job completed in the pop-up window.
 - The system will save the report in Excel format (.xlsx) without including indexes in the file.
+- Why not just manually delete the printed files? In this case, the manager wants to keep the complete list to know the total number of documents printed in a day, and at the same time, be able to see the pending documents for the next day and be able to monitor the daily workload vs pending.
 
 That's it! With these steps, you can effectively use the printing control system to manage pending jobs at your printing center. If you need something similar adapted for your printing center, please feel free to reach out.
 
@@ -85,6 +86,7 @@ El sistema de impresión es una herramienta diseñada para gestionar los trabajo
 - Si el sistema no encuentra ningún archivo en la carpeta, mostrará un mensaje de que la carpeta está vacía.
 - Es importante ingresar correctamente el nombre del último trabajo realizado en la ventana emergente.
 - El sistema guardará el reporte en formato Excel (.xlsx) sin incluir los índices en el archivo.
+- ¿Por qué no simplemente ir borrando a mano los archivos impresos?, en este caso porque el gerente quiere mantener la lista completa para saber el total de documentos impresos en el día, y a la vez, poder ver el documento de pendientes para el día siguiente y poder monitorear la carga de trabajo diaria vs pendientes.
 
 ¡Listo! Con estos pasos, podrás utilizar eficazmente el sistema de impresión para gestionar los trabajos pendientes en tu centro de impresión.
 Si necesitas adaptar algo parecido para tu centro de impresión quedo a tus órdenes.
